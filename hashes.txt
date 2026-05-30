@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whispering Hearts
+
+This log tracks the cryptographic history and versioning for the song **Whispering Hearts** (whispering-hearts).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T21:03:28.334597 | `v1` | `ba57917cf55183ddd666cae02aaf0ac79da2a29d1a4e88bb3b7739ddb016b1df` | `835f6985fe969996524c745cd0c6070dc5406b911d28ff9a5574c8fcf978ec8a` | `2026-05-30_whispering-hearts-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-hearts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Whispering Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-hearts/) |
+| **Get License** | [Get License For Whispering Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-hearts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ba57917cf55183ddd666cae02aaf0ac79da2a29d1a4e88bb3b7739ddb016b1df` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
