@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-hearts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Whispering Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-hearts/) |
+| **Get License** | [Get a Licensing Quote for Whispering Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-hearts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can see the shadows dancing on the wall
+> Every time you look at me, I start to fall
+> We are hiding from the rush of passing time
+> And I am grateful for the chance to call you mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
